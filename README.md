@@ -27,3 +27,5 @@
 ### Sale Price VS Garage Area
 
 # Summarizing Model Accuracies
+
+![prediction](https://github.com/shwetasaini07/Projects/assets/38052962/4ef8230d-8154-4d1c-b2d5-cc4dec82b747)
