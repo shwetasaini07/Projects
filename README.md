@@ -27,4 +27,4 @@
 
 # Summarizing Model Accuracies
 
-![prediction](https://github.com/shwetasaini07/Projects/assets/38052962/4ef8230d-8154-4d1c-b2d5-cc4dec82b747)
+![predd](https://github.com/shwetasaini07/Projects/assets/38052962/eb2e2b6c-dbfe-4cac-92d2-7ae0fc38f357)
