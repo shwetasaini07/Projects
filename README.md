@@ -1,5 +1,3 @@
-# House Sale Prediction Using Regression Models 
-
 ## Contents in PDF
 - Importing Libraries
 - Data Cleaning and Preprocessing
