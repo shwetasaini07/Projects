@@ -10,6 +10,20 @@
 
 # Visualizations 
 
+![gp_1](https://github.com/shwetasaini07/Projects/assets/38052962/cc4ca326-403c-4d72-bbcf-5355deb36d83)
 
+### Sale Price VS Year Built
+
+![gp_2](https://github.com/shwetasaini07/Projects/assets/38052962/ee5d3aab-ef75-4bec-8a0d-42ff8e5d9d89)
+
+### Sale Price VS First_Floor_Sq_ft
+
+![gp_3](https://github.com/shwetasaini07/Projects/assets/38052962/7afc03b8-6de8-44ab-96c6-31f9812784a8)
+
+### Sale Price VS Second_Floor_Sq_ft
+
+![gp_4](https://github.com/shwetasaini07/Projects/assets/38052962/9c9afa6e-aaa2-481a-9966-dae1c65419a4)
+
+### Sale Price VS Garage Area
 
 # Summarizing Model Accuracies
